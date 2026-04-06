@@ -1,0 +1,1 @@
+This PR adds comprehensive instructions for creating good merge requests in the copilot.md file.
